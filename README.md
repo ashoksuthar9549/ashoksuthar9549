@@ -9,7 +9,7 @@
   Focused on creating beautiful UI experiences with clean and efficient code.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Angular+Developer;React+Learner;JavaScript+Enthusiast;Building+Modern+Web+Experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-stack+Developer;React+Developer;MERN+Learner;JavaScript+Enthusiast;Building+Modern+Web+Experiences" />
 
 ---
 
