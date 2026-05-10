@@ -2,7 +2,7 @@
 
 # ✨ Hey, I'm Ashok Suthar 👋
 
-### 🚀 Frontend Developer | UI Engineer | JavaScript Enthusiast
+### 🚀 Full-stack Developer | UI Engineer | JavaScript Enthusiast
 
 <p>
   Passionate about building modern, scalable, and user-friendly web applications.<br>
@@ -15,7 +15,7 @@
 
 ## 🌟 About Me
 
-💼 Frontend Developer at **Brainvire Infotech**  
+💼 Backend Developer at **TCS**  
 ⚡ Skilled in Angular, JavaScript, TypeScript & Modern UI Development  
 🎯 Currently learning MERN Stack & Backend Development  
 📍 India  
